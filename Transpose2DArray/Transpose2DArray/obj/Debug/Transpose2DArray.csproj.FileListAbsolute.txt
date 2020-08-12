@@ -1,0 +1,7 @@
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\bin\Debug\Transpose2DArray.exe.config
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\bin\Debug\Transpose2DArray.exe
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\bin\Debug\Transpose2DArray.pdb
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\obj\Debug\Transpose2DArray.csprojAssemblyReference.cache
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\obj\Debug\Transpose2DArray.csproj.CoreCompileInputs.cache
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\obj\Debug\Transpose2DArray.exe
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\Transpose2DArray\Transpose2DArray\obj\Debug\Transpose2DArray.pdb

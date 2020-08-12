@@ -1,0 +1,7 @@
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\bin\Debug\CaseConversion.exe.config
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\bin\Debug\CaseConversion.exe
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\bin\Debug\CaseConversion.pdb
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\obj\Debug\CaseConversion.csprojAssemblyReference.cache
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\obj\Debug\CaseConversion.csproj.CoreCompileInputs.cache
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\obj\Debug\CaseConversion.exe
+E:\Work Stuff\GitHub\Development Stuff\DotNet\XoriantConsoleAppPractice\CaseConversion\CaseConversion\obj\Debug\CaseConversion.pdb
